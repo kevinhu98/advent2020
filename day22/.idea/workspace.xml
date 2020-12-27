@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7df918d0-f93c-4b0f-b077-1b88a16d3b4f" name="Default Changelist" comment="" />
+    <list default="true" id="4dad54a0-8969-4440-b0c8-8f7db77eadb9" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -11,10 +11,19 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/day15.py">
+        <entry file="file://$PROJECT_DIR$/day22.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" column="38" selection-start-line="11" selection-start-column="38" selection-end-line="11" selection-end-column="38" />
+            <state relative-caret-position="714">
+              <caret line="42" column="18" lean-forward="true" selection-start-line="42" selection-start-column="18" selection-end-line="42" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/day22.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="745">
+              <caret line="49" column="2" selection-start-line="49" selection-start-column="2" selection-end-line="49" selection-end-column="2" />
             </state>
           </provider>
         </entry>
@@ -34,7 +43,8 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/day15.py" />
+        <option value="$PROJECT_DIR$/day22.txt" />
+        <option value="$PROJECT_DIR$/day22.py" />
       </list>
     </option>
   </component>
@@ -54,8 +64,8 @@
         <subPane>
           <expand>
             <path>
-              <item name="day15" type="b2602c69:ProjectViewProjectNode" />
-              <item name="day15" type="462c0819:PsiDirectoryNode" />
+              <item name="day22" type="b2602c69:ProjectViewProjectNode" />
+              <item name="day22" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -67,10 +77,10 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../day22" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -85,8 +95,8 @@
     </option>
   </component>
   <component name="RunManager">
-    <configuration name="day15" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="day15" />
+    <configuration name="day22" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="day22" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -108,7 +118,7 @@
           <ENTRY IS_ENABLED="true" PARSER="runconfig" />
         </ENTRIES>
       </EXTENSION>
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day15.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day22.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -119,7 +129,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.day15" />
+        <item itemvalue="Python.day22" />
       </list>
     </recent_temporary>
   </component>
@@ -128,21 +138,22 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="7df918d0-f93c-4b0f-b077-1b88a16d3b4f" name="Default Changelist" comment="" />
-      <created>1608432615466</created>
+      <changelist id="4dad54a0-8969-4440-b0c8-8f7db77eadb9" name="Default Changelist" comment="" />
+      <created>1609045684945</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1608432615466</updated>
-      <workItem from="1608432616588" duration="4966000" />
-      <workItem from="1609045647038" duration="38000" />
+      <updated>1609045684945</updated>
+      <workItem from="1609045686074" duration="2170000" />
+      <workItem from="1609105865727" duration="156000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5004000" />
+    <option name="totallyTimeSpent" value="2326000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25266525" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -150,7 +161,7 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32936078" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.3997833" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -171,13 +182,20 @@
     <option name="version" value="1" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/day15$day15.coverage" NAME="day15 Coverage Results" MODIFIED="1608437082382" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/day22$day22.coverage" NAME="day22 Coverage Results" MODIFIED="1609047013402" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/day15.py">
+    <entry file="file://$PROJECT_DIR$/day22.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="38" selection-start-line="11" selection-start-column="38" selection-end-line="11" selection-end-column="38" />
+        <state relative-caret-position="745">
+          <caret line="49" column="2" selection-start-line="49" selection-start-column="2" selection-end-line="49" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day22.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="714">
+          <caret line="42" column="18" lean-forward="true" selection-start-line="42" selection-start-column="18" selection-end-line="42" selection-end-column="18" />
         </state>
       </provider>
     </entry>
